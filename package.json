@@ -37,7 +37,7 @@
     "@types/jest": "latest",
     "@vue/test-utils": "latest",
     "babel-eslint": "^10.1.0",
-    "eslint": "^7.22.0",
+    "eslint": "^8.0.1",
     "jest": "latest",
     "mkdist": "latest",
     "nuxt-edge": "^2.16.0-26930917.f08f4efc",
